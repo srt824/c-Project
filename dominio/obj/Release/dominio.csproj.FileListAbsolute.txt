@@ -1,0 +1,6 @@
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\dominio\bin\Release\dominio.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\dominio\bin\Release\dominio.pdb
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\dominio\obj\Release\dominio.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\dominio\obj\Release\dominio.pdb

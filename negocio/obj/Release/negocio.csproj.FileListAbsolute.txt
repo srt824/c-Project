@@ -1,0 +1,11 @@
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\bin\Release\negocio.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\bin\Release\negocio.pdb
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\bin\Release\conexiones.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\bin\Release\dominio.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\bin\Release\conexiones.pdb
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\bin\Release\dominio.pdb
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\obj\Release\negocio.csproj.AssemblyReference.cache
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\obj\Release\negocio.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\obj\Release\negocio.csproj.CopyComplete
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\obj\Release\negocio.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\negocio\obj\Release\negocio.pdb

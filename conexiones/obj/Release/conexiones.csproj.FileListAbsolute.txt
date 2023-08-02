@@ -1,0 +1,6 @@
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\conexiones\bin\Release\conexiones.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\conexiones\bin\Release\conexiones.pdb
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\conexiones\obj\Release\conexiones.csproj.AssemblyReference.cache
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\conexiones\obj\Release\conexiones.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\conexiones\obj\Release\conexiones.dll
+C:\Users\storr\Desktop\TPFinalNivel2_Torres\conexiones\obj\Release\conexiones.pdb
