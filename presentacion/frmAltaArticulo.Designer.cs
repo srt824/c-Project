@@ -103,7 +103,7 @@ namespace presentacion
             this.btnAceptar.Location = new System.Drawing.Point(97, 245);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(75, 23);
-            this.btnAceptar.TabIndex = 6;
+            this.btnAceptar.TabIndex = 8;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
             this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
@@ -113,7 +113,7 @@ namespace presentacion
             this.btnCancelar.Location = new System.Drawing.Point(232, 245);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(75, 23);
-            this.btnCancelar.TabIndex = 7;
+            this.btnCancelar.TabIndex = 9;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
             this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
@@ -125,7 +125,7 @@ namespace presentacion
             this.cboCategoria.Location = new System.Drawing.Point(164, 139);
             this.cboCategoria.Name = "cboCategoria";
             this.cboCategoria.Size = new System.Drawing.Size(121, 21);
-            this.cboCategoria.TabIndex = 4;
+            this.cboCategoria.TabIndex = 5;
             // 
             // cboMarca
             // 
@@ -134,7 +134,7 @@ namespace presentacion
             this.cboMarca.Location = new System.Drawing.Point(164, 167);
             this.cboMarca.Name = "cboMarca";
             this.cboMarca.Size = new System.Drawing.Size(121, 21);
-            this.cboMarca.TabIndex = 5;
+            this.cboMarca.TabIndex = 6;
             // 
             // lblCategoria
             // 
@@ -159,7 +159,7 @@ namespace presentacion
             this.txtImagenUrl.Location = new System.Drawing.Point(164, 113);
             this.txtImagenUrl.Name = "txtImagenUrl";
             this.txtImagenUrl.Size = new System.Drawing.Size(121, 20);
-            this.txtImagenUrl.TabIndex = 3;
+            this.txtImagenUrl.TabIndex = 4;
             this.txtImagenUrl.Leave += new System.EventHandler(this.txtImagenUrl_Leave);
             // 
             // lblImagenUrl
@@ -185,7 +185,7 @@ namespace presentacion
             this.btnAgregarImagen.Location = new System.Drawing.Point(302, 111);
             this.btnAgregarImagen.Name = "btnAgregarImagen";
             this.btnAgregarImagen.Size = new System.Drawing.Size(27, 23);
-            this.btnAgregarImagen.TabIndex = 15;
+            this.btnAgregarImagen.TabIndex = 3;
             this.btnAgregarImagen.Text = "+";
             this.btnAgregarImagen.UseVisualStyleBackColor = true;
             this.btnAgregarImagen.Click += new System.EventHandler(this.btnAgregarImagen_Click);
@@ -204,7 +204,7 @@ namespace presentacion
             this.txtPrecio.Location = new System.Drawing.Point(164, 196);
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(121, 20);
-            this.txtPrecio.TabIndex = 17;
+            this.txtPrecio.TabIndex = 7;
             // 
             // frmAltaArticulo
             // 

@@ -128,7 +128,7 @@ namespace presentacion
         private void btnAgregarImagen_Click(object sender, EventArgs e)
         {
             archivo = new OpenFileDialog();
-            archivo.Filter = "jpg|*.jpg";
+            archivo.Filter = "jpg|*.jpg;|png|*.png";
             if(archivo.ShowDialog() == DialogResult.OK)
             {
                 txtImagenUrl.Text = archivo.FileName;
